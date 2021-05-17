@@ -6,4 +6,6 @@ description: Lorem ipsum bla bla bla
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 ---
+![](/img/blog-index.jpg)
+
 asdasdsadasdffasdfa adfasdfsdf
